@@ -1,3 +1,4 @@
-# empty rectangle class
+#!/usr/bin/python3
+
 class Rectangle:
     pass
